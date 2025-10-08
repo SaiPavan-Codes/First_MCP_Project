@@ -74,8 +74,12 @@ Flow-------------------------------------
 
 Useful links:
 grog - https://console.groq.com/home
+
 Bright Data - https://brightdata.com/
+
 Bright Data Github - https://github.com/brightdata/brightdata-mcp
+
 LangGraph Documentation to create agent - https://langchain-ai.github.io/langgraph/agents/agents/
+
 LangChain MCP Adapters GitHub - https://github.com/langchain-ai/langchain-mcp-adapters
 
